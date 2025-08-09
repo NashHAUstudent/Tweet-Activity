@@ -77,6 +77,3 @@ Click "Post Tweet."
 You will be redirected to the "Recent Tweets" page, where your new post will appear.
 
 To see all the posts and manage them, you can log in to the admin panel at http://127.0.0.1:8000/admin/ using the admin credentials you created.
-
-Note on Repository
-This project is set up to ignore the virtual environment (.venv) and the SQLite database file (db.sqlite3). This is standard practice for version control. If you are using Git, a .gitignore file is recommended to prevent these files from being uploaded.
