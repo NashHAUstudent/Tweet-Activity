@@ -77,3 +77,5 @@ Click "Post Tweet."
 You will be redirected to the "Recent Tweets" page, where your new post will appear.
 
 To see all the posts and manage them, you can log in to the admin panel at http://127.0.0.1:8000/admin/ using the admin credentials you created.
+
+If Image does not store or show create a folder > media inside media create folder "images", create folder "images" as well
